@@ -1,0 +1,16 @@
+.sidebar{
+    background: #000;
+    height: 100vh;
+    position: fixed;
+    padding-top:40px ;
+    padding-left:3%;
+    left: 0;
+    
+}
+body{
+    margin-top:59px;
+    margin-left: 19%;
+}
+#sidebar-links{
+    text-decoration: none;
+}
